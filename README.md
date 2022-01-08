@@ -40,16 +40,18 @@
 
 ![image](https://user-images.githubusercontent.com/26866063/148643589-9c0196a4-2c8a-4ec0-b204-1f6759400e77.png)
 
-## 07. plot the classifier with the given data points superimposed
+## 7. plot the classifier with the given data points superimposed
 * did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
 * [full documents](https://github.com/v1r4m/MLmd/blob/main/ml7.pdf)
 
 ![image](https://user-images.githubusercontent.com/26866063/148643711-4892968a-ecfc-49c7-b0fd-a6d6f9d962e4.png)
 ![image](https://user-images.githubusercontent.com/26866063/148643723-34619ff3-27fe-4ef6-9727-c3e711fe8d92.png)
 
-## 08. classifier with many properties
+## 8. classifier with many properties
 * did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
 * [full documents](https://github.com/v1r4m/MLmd/blob/main/ml8.pdf)
 
 ![image](https://user-images.githubusercontent.com/26866063/148643819-3143256a-98c6-4860-bc5b-c3defe483a66.png)
+
+## 9. 
 
