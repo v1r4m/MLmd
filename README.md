@@ -53,5 +53,10 @@
 
 ![image](https://user-images.githubusercontent.com/26866063/148643819-3143256a-98c6-4860-bc5b-c3defe483a66.png)
 
-## 9. 
+## 9. clustring
+* did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
+* [full documents](https://github.com/v1r4m/MLmd/blob/main/ml9.pdf)
+
+![image](https://user-images.githubusercontent.com/26866063/148677901-eefbd377-eedb-4aad-9538-c8e325ff2d95.png)
+
 
