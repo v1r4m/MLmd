@@ -63,4 +63,4 @@
 * did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
 * [full documents](https://github.com/v1r4m/MLmd/blob/main/ml10.pdf)
 
-![image](https://user-images.githubusercontent.com/26866063/149125471-a8be946f-8bb1-4e46-ab0e-b5b4f2680be7.png)
+![image](https://user-images.githubusercontent.com/26866063/149126955-bf402c84-4e5d-4043-86aa-e75174a37c07.png)
