@@ -65,7 +65,7 @@
 
 ![image](https://user-images.githubusercontent.com/26866063/149125471-a8be946f-8bb1-4e46-ab0e-b5b4f2680be7.png)
 
-## 10. 0/1 classification
+## 11. 0/1 binary classification
 * did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
 * [full documents](https://github.com/v1r4m/MLmd/blob/main/ml11.pdf)
 
