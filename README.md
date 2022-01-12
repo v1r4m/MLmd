@@ -59,4 +59,8 @@
 
 ![image](https://user-images.githubusercontent.com/26866063/148677901-eefbd377-eedb-4aad-9538-c8e325ff2d95.png)
 
+## 10. PCA with eignVector
+* did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
+* [full documents](https://github.com/v1r4m/MLmd/blob/main/ml10.pdf)
 
+![image](https://user-images.githubusercontent.com/26866063/149125471-a8be946f-8bb1-4e46-ab0e-b5b4f2680be7.png)
