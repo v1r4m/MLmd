@@ -70,3 +70,11 @@
 * [full documents](https://github.com/v1r4m/MLmd/blob/main/ml11.pdf)
 
 ![image](https://user-images.githubusercontent.com/26866063/149126955-bf402c84-4e5d-4043-86aa-e75174a37c07.png)
+
+## 12. Image Recovery through `CNN` `AutoEncoder` `PyTorch` `Data Augmentation`
+* [full documents](https://github.com/v1r4m/MLmd/blob/main/ml12.pdf)
+
+![image](https://user-images.githubusercontent.com/26866063/149494883-be7ee3eb-bf7e-47e8-8316-7f0946c76cfe.png)
+![image](https://user-images.githubusercontent.com/26866063/149494914-c9d8aefa-7d5f-4a6d-a4f5-993aef1a6eeb.png)
+
+
