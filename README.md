@@ -1,6 +1,8 @@
-# Machine Learning (part 1)
+# Machine Learning
 * the repository is originally [here](https://github.com/v1r4m/assignment-machine-learning), which is private repository.
 * this page is for the description of my machine learning project.
+![image](https://user-images.githubusercontent.com/26866063/150107692-f84bfbb4-e7c7-4c56-9d1f-0243ffbbb206.png)
+
 
 ## 1. plot <img src="https://latex.codecogs.com/gif.latex?L_2^2" /> norm <img src="https://latex.codecogs.com/gif.latex?I_x^2+I_y^2"/>
 * did not used pytorch, only mathmatics and numpy so that I can learn the basic mathmatics of what pytorch does.
